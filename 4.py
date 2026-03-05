@@ -1,1 +1,1 @@
-ijy;ljku
+print("Hello World")
